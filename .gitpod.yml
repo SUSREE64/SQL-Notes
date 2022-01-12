@@ -4,4 +4,5 @@ tasks:
     command: |
       echo 'TODO: start app'
 image:
-  file: .gitpod.Dockerfile      
+  file: .gitpod.dockerfile
+  
